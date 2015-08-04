@@ -4,6 +4,7 @@ body {
 	max-width:940px;
 	margin:0 auto;
 	text-align: center;
+	padding-top: 100px;
 }
 
 h1 {
@@ -13,13 +14,23 @@ h1 {
 }
 
 img {
-	height: 170px;
+	height: 200px;
 	width: 170px;
 	box-shadow: rgba(0,0,0,0.2) 10px 10px;
 	text-align: center;
+	margin-right: 40px;
+	display:inline-block;
 }
 
 p {
 	border-bottom: 1px solid #FF9999;
 	padding-bottom: 5px;
 }
+
+.tabell {
+display:table;
+width: 100%
+}
+
+.row { display: table-row; }
+.column { display: table-cell; }
