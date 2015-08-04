@@ -1,0 +1,25 @@
+body {
+	background-color: purple;
+	font: 12pt/1.4 "Helvetica Neu", "Helvetica", "Arial";
+	max-width:940px;
+	margin:0 auto;
+	text-align: center;
+}
+
+h1 {
+	color: black;
+	font:16pt;
+	text-align: center;
+}
+
+img {
+	height: 170px;
+	width: 170px;
+	box-shadow: rgba(0,0,0,0.2) 10px 10px;
+	text-align: center;
+}
+
+p {
+	border-bottom: 1px solid #FF9999;
+	padding-bottom: 5px;
+}
