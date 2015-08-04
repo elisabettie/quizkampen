@@ -1,22 +1,27 @@
 body {
-	background-color: purple;
+	background-color: white;
 	font: 16pt/1.4 "Helvetica Neu", "Helvetica", "Arial";
 	margin:0 auto;
 	text-align: center;
-	padding-top: 100px;
 }
 
 h1 {
-	color: #ffffff;
+	color: black;
 	font: 18pt/1.4 "Helvetica Neu", "Helvetica", "Arial";
+	text-align: center;
+}
+
+h2 {
+	color: black;
+	font: 12pt/1 "Helvetica Neu", "Helvetica", "Arial";
 	text-align: center;
 }
 
 img {
 	width: 33%;
-	box-shadow: rgba(0,0,0,0.2) 10px 10px;
 	text-align: center;
 	display:inline-block;
+	opacity:1;
 }
 
 p {
