@@ -17,6 +17,12 @@ h2 {
 	text-align: center;
 }
 
+h3 {
+	color: black;
+	font: 9pt/1 "Helvetica Neu", "Helvetica", "Arial";
+	text-align: center;
+}
+
 img {
 	width: 33%;
 	text-align: center;
@@ -29,8 +35,8 @@ p {
 	padding-bottom: 5px;
 }
 
-u {
-    text-decoration: underline;
+a {
+    color: #000000;
 }
 
 input[type="image"] {
@@ -41,6 +47,17 @@ input[type="image"] {
 	padding: 0;
 	border: 0;
 }
+
+#start {
+	margin-top: 320px;
+}	 
+
+#backgroundbild {
+	background-image: 
+		url("miley02.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}	 
 
 .svarsbild:hover {
 	opacity: 0.3;
